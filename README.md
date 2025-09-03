@@ -1,6 +1,6 @@
 ### Hi there, I'm Anup 👋
 
-🎓 **3rd Year B.Tech Student in Electronics and Communication Engineering**  
+🎓 **Final Year B.Tech Student in Electronics and Communication Engineering**  
 - Passionate about leveraging technology to solve real-world problems.
 - Currently deepening my knowledge in **Data Structures and Algorithms (DSA)** and **Electronics**.
 - Actively solving problems on **LeetCode** to sharpen my coding skills.
@@ -12,7 +12,7 @@
 
 🚀 **What I’m Up To:**
 - Working on building a strong foundation in DSA to crack technical interviews for **product-based companies**.
-- Exploring **internship opportunities** with a focus on software and embedded systems roles.
+- Exploring **internship opportunities** with a focus on software and web development.
 
 
 🔗 **Connect with Me:**
