@@ -39,8 +39,8 @@ My coursework and practical experience have provided me with a solid understandi
 ### 📫 How to reach me:
 
 - **Email:** [anupsingh727716@gmail.com](mailto:anupsingh727716@gmail.com)
-- **LeetCode:** [https://leetcode.com/anupsingh727716/](https://leetcode.com/anupsingh727716/)
-- **GitHub:** [https://github.com/Anup-Kumar-2004](https://github.com/Anup-Kumar-2004)
+- **LeetCode:** [https://leetcode.com/anupsingh04/](https://leetcode.com/anupsingh04/)
+- **GitHub:** [https://github.com/anupsingh04](https://github.com/anupsingh04)
 
 
 Let’s collaborate and grow together! Feel free to check out my repositories and reach out if you find something interesting.
